@@ -7,19 +7,19 @@ class Glassbox < Formula
     depends_on arch: :arm64
 
     on_arm do
-      url "https://github.com/jacob-adm/glassbox/releases/download/v0.4.0/glassbox-0.4.0-aarch64-apple-darwin.tar.gz"
-      sha256 "6e09767bb04cd39d77a48666d9a1a4d91f689dbf48118ddb690918b4a6c885b5"
+      url "https://github.com/jacob-adm/glassbox/releases/download/v0.5.0/glassbox-0.5.0-aarch64-apple-darwin.tar.gz"
+      sha256 "64e7f1cc55cf79dc0953143818838a526150a82048e5333c2ee4962c1947fddd"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/jacob-adm/glassbox/releases/download/v0.4.0/glassbox-0.4.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "1df1b862824414fa7ba315cab263d1ae4a965e7d12c0c10f0021146f50c21ddd"
+      url "https://github.com/jacob-adm/glassbox/releases/download/v0.5.0/glassbox-0.5.0-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "0b2e061b079faee5fecf616960043097c3d5432ea017cd9c84071b5aebf882cb"
     end
     on_intel do
-      url "https://github.com/jacob-adm/glassbox/releases/download/v0.4.0/glassbox-0.4.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "7944b552967798e6f071d70d19d6e39ae5e6cadb7cbada270d204e974058796f"
+      url "https://github.com/jacob-adm/glassbox/releases/download/v0.5.0/glassbox-0.5.0-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "403b6419be3011aa274d1a8e1924bc1f58471bb19b3faf2824922e8588645645"
     end
   end
 
