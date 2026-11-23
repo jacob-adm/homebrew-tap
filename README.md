@@ -15,7 +15,7 @@ formula before installing.
 
 | Formula | What it does | Platforms |
 |---|---|---|
-| [glassbox](https://github.com/jacob-adm/glassbox) | Audits what AI agents and other local processes can access | macOS on Apple silicon; Linux x86-64 and ARM64 |
+| [glassbox](https://github.com/jacob-adm/glassbox) | Security and systems auditing for AI agents and local workloads | macOS on Apple silicon; Linux x86-64 and ARM64 |
 
 ## Updating
 

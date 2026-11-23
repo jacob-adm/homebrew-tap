@@ -1,5 +1,5 @@
 class Glassbox < Formula
-  desc "Audit what AI agents and other local processes can access"
+  desc "Security and systems auditing for AI agents and local workloads"
   homepage "https://github.com/jacob-adm/glassbox"
   license "Apache-2.0"
 
